@@ -45,3 +45,8 @@ public class TipTaxTotal extends Application {
         launch(args);
     }
 }
+/*
+This application calculates and displays the amount 
+of an 18% tip on the total food charge, 7% sales tax, 
+and the final total.
+*/
